@@ -1,0 +1,20 @@
+Package: BSgenome.Ecoli.NCBI.MG1655
+Title: A BSgenome for an e. Coli strain
+Description: A BSgenome for an e. Coli strain
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+organism: Escherichia coli
+seqnames: "NC_000913.3"
+common_name: ecoli
+provider: NCBI
+provider_version: MG1655
+release_date: 2019/01/01
+release_name: NA
+source_url: NA
+organism_biocview: AnnotationData, Genetics, BSgenome,
+	Escherichia_coli
+BSgenomeObjname: Ecoli
+seqs_srcdir: /Users/stvjc/Downloads/vjcecoli
