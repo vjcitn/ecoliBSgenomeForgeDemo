@@ -17,4 +17,4 @@ source_url: NA
 organism_biocview: AnnotationData, Genetics, BSgenome,
 	Escherichia_coli
 BSgenomeObjname: Ecoli
-seqs_srcdir: /Users/stvjc/Downloads/vjcecoli
+seqs_srcdir: 
